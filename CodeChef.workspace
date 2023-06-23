@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CodeChef" Database="" Version="10000">
+  <Project Name="MayLuchTime" Path="MayLuchTime/MayLuchTime.project" Active="No"/>
+  <Project Name="GettingStarted" Path="GettingStarted/GettingStarted.project" Active="No"/>
+  <Project Name="Starters39" Path="Starters39/Starters39.project" Active="No"/>
+  <Project Name="MayLong2" Path="MayLong2/MayLong2.project" Active="No"/>
+  <Project Name="Starters40" Path="Staters40/Staters40.project" Active="No"/>
+  <Project Name="InfiniteStairCase" Path="InfiniteStairCase/InfiniteStairCase.project" Active="No"/>
+  <Project Name="Starters41" Path="Starters41/Starters41.project" Active="No"/>
+  <Project Name="JuneCookOff" Path="JuneCookOff/JuneCookOff.project" Active="No"/>
+  <Project Name="Starters42" Path="Starters42/Starters42.project" Active="No"/>
+  <Project Name="JuneLongOne" Path="JuneLongOne/JuneLongOne.project" Active="No"/>
+  <Project Name="Starters43" Path="Starters43/Starters43.project" Active="No"/>
+  <Project Name="JuneLunchTime" Path="JuneLunchTime/JuneLunchTime.project" Active="No"/>
+  <Project Name="MISSP" Path="MISSP/MISSP.project" Active="No"/>
+  <Project Name="ChefDiet" Path="ChefDiet/ChefDiet.project" Active="No"/>
+  <Project Name="Starters44" Path="Starters44/Starters44.project" Active="No"/>
+  <Project Name="JuneLongTwo" Path="JuneLongTwo/JuneLongTwo.project" Active="No"/>
+  <Project Name="starters45" Path="starters45/starters45.project" Active="No"/>
+  <Project Name="JuneCookoff" Path="JuneCookoff/JuneCookoff.project" Active="No"/>
+  <Project Name="JulyCookOff" Path="JulyCookOff/JulyCookOff.project" Active="No"/>
+  <Project Name="Starters46" Path="Starters46/Starters46.project" Active="No"/>
+  <Project Name="Starters47" Path="Starters47/Starters47.project" Active="No"/>
+  <Project Name="JulyLong2" Path="JulyLong2/JulyLong2.project" Active="No"/>
+  <Project Name="Starters49" Path="Starters49/Starters49.project" Active="No"/>
+  <Project Name="Starters50" Path="Starters50/Starters50.project" Active="No"/>
+  <Project Name="AugustLong1" Path="AugustLong1/AugustLong1.project" Active="No"/>
+  <Project Name="Starters52" Path="Starters52/Starters52.project" Active="No"/>
+  <Project Name="LTIME111" Path="LTIME111/LTIME111.project" Active="No"/>
+  <Project Name="Starters54" Path="Starters54/Starters54.project" Active="No"/>
+  <Project Name="Starters55" Path="Starters55/Starters55.project" Active="No"/>
+  <Project Name="CodeChefPractise" Path="CodeChefPractise/CodeChefPractise.project" Active="No"/>
+  <Project Name="Starters60" Path="Starters60/Starters60.project" Active="No"/>
+  <Project Name="Starters61" Path="Starters61/Starters61.project" Active="No"/>
+  <Project Name="NovLong22" Path="NovLong22/NovLong22.project" Active="No"/>
+  <Project Name="Starters65" Path="Starters65/Starters65.project" Active="No"/>
+  <Project Name="DECLONG" Path="DECLONG/DECLONG.project" Active="No"/>
+  <Project Name="Starters70" Path="Starters70/Starters70.project" Active="No"/>
+  <Project Name="Advanced(1500-1600)" Path="Advanced(1500-1600)/Advanced(1500-1600).project" Active="No"/>
+  <Project Name="Starters72" Path="Starters72/Starters72.project" Active="No"/>
+  <Project Name="Starters73" Path="Starters73/Starters73.project" Active="No"/>
+  <Project Name="JanLong23" Path="JanLong23/JanLong23.project" Active="No"/>
+  <Project Name="Starters74" Path="Starters74/Starters74.project" Active="No"/>
+  <Project Name="Basic(1600-1700)" Path="Basic(1600-1700)/Basic(1600-1700).project" Active="No"/>
+  <Project Name="FebCookoff" Path="FebCookoff/FebCookoff.project" Active="No"/>
+  <Project Name="Starters77" Path="Starters77/Starters77.project" Active="No"/>
+  <Project Name="Starters79" Path="Starters79/Starters79.project" Active="No"/>
+  <Project Name="Starters80" Path="Starters80/Starters80.project" Active="No"/>
+  <Project Name="Starters81" Path="Starters81/Starters81.project" Active="No"/>
+  <Project Name="Starters82" Path="Starters82/Starters82.project" Active="No"/>
+  <Project Name="Starters83" Path="Starters83/Starters83.project" Active="No"/>
+  <Project Name="Starters84" Path="Starters84/Starters84.project" Active="No"/>
+  <Project Name="Starters85" Path="Starters85/Starters85.project" Active="No"/>
+  <Project Name="Starters87" Path="Starters87/Starters87.project" Active="No"/>
+  <Project Name="Starters88" Path="Starters88/Starters88.project" Active="No"/>
+  <Project Name="Starters89" Path="Starters89/Starters89.project" Active="No"/>
+  <Project Name="Starters91" Path="Starters91/Starters91.project" Active="No"/>
+  <Project Name="Starters92" Path="Starters92/Starters92.project" Active="No"/>
+  <Project Name="Starters93" Path="Starters93/Starters93.project" Active="No"/>
+  <Project Name="Starters94" Path="Starters94/Starters94.project" Active="No"/>
+  <Project Name="Starters95" Path="Starters95/Starters95.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="MayLuchTime" ConfigName="Debug"/>
+      <Project Name="GettingStarted" ConfigName="Debug"/>
+      <Project Name="Starters39" ConfigName="Debug"/>
+      <Project Name="MayLong2" ConfigName="Debug"/>
+      <Project Name="Starters40" ConfigName="Debug"/>
+      <Project Name="InfiniteStairCase" ConfigName="Debug"/>
+      <Project Name="Starters41" ConfigName="Debug"/>
+      <Project Name="JuneCookOff" ConfigName="Debug"/>
+      <Project Name="Starters42" ConfigName="Debug"/>
+      <Project Name="JuneLongOne" ConfigName="Debug"/>
+      <Project Name="Starters43" ConfigName="Debug"/>
+      <Project Name="JuneLunchTime" ConfigName="Debug"/>
+      <Project Name="MISSP" ConfigName="Debug"/>
+      <Project Name="ChefDiet" ConfigName="Debug"/>
+      <Project Name="Starters44" ConfigName="Debug"/>
+      <Project Name="JuneLongTwo" ConfigName="Debug"/>
+      <Project Name="starters45" ConfigName="Debug"/>
+      <Project Name="JuneCookoff" ConfigName="Debug"/>
+      <Project Name="JulyCookOff" ConfigName="Debug"/>
+      <Project Name="Starters46" ConfigName="Debug"/>
+      <Project Name="Starters47" ConfigName="Debug"/>
+      <Project Name="JulyLong2" ConfigName="Debug"/>
+      <Project Name="Starters49" ConfigName="Debug"/>
+      <Project Name="Starters50" ConfigName="Debug"/>
+      <Project Name="AugustLong1" ConfigName="Debug"/>
+      <Project Name="Starters52" ConfigName="Debug"/>
+      <Project Name="LTIME111" ConfigName="Debug"/>
+      <Project Name="Starters54" ConfigName="Debug"/>
+      <Project Name="Starters55" ConfigName="Debug"/>
+      <Project Name="CodeChefPractise" ConfigName="Debug"/>
+      <Project Name="Starters60" ConfigName="Debug"/>
+      <Project Name="Starters61" ConfigName="Debug"/>
+      <Project Name="NovLong22" ConfigName="Debug"/>
+      <Project Name="Starters65" ConfigName="Debug"/>
+      <Project Name="DECLONG" ConfigName="Debug"/>
+      <Project Name="Starters70" ConfigName="Debug"/>
+      <Project Name="Advanced(1500-1600)" ConfigName="Debug"/>
+      <Project Name="Starters72" ConfigName="Debug"/>
+      <Project Name="Starters73" ConfigName="Debug"/>
+      <Project Name="JanLong23" ConfigName="Debug"/>
+      <Project Name="Starters74" ConfigName="Debug"/>
+      <Project Name="Basic(1600-1700)" ConfigName="Debug"/>
+      <Project Name="FebCookoff" ConfigName="Debug"/>
+      <Project Name="Starters77" ConfigName="Debug"/>
+      <Project Name="Starters79" ConfigName="Debug"/>
+      <Project Name="Starters80" ConfigName="Debug"/>
+      <Project Name="Starters81" ConfigName="Debug"/>
+      <Project Name="Starters82" ConfigName="Debug"/>
+      <Project Name="Starters83" ConfigName="Debug"/>
+      <Project Name="Starters84" ConfigName="Debug"/>
+      <Project Name="Starters85" ConfigName="Debug"/>
+      <Project Name="Starters87" ConfigName="Debug"/>
+      <Project Name="Starters88" ConfigName="Debug"/>
+      <Project Name="Starters89" ConfigName="Debug"/>
+      <Project Name="Starters91" ConfigName="Debug"/>
+      <Project Name="Starters92" ConfigName="Debug"/>
+      <Project Name="Starters93" ConfigName="Debug"/>
+      <Project Name="Starters94" ConfigName="Debug"/>
+      <Project Name="Starters95" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="MayLuchTime" ConfigName="Release"/>
+      <Project Name="GettingStarted" ConfigName="Release"/>
+      <Project Name="Starters39" ConfigName="Release"/>
+      <Project Name="MayLong2" ConfigName="Release"/>
+      <Project Name="Starters40" ConfigName="Release"/>
+      <Project Name="InfiniteStairCase" ConfigName="Release"/>
+      <Project Name="Starters41" ConfigName="Release"/>
+      <Project Name="JuneCookOff" ConfigName="Release"/>
+      <Project Name="Starters42" ConfigName="Release"/>
+      <Project Name="JuneLongOne" ConfigName="Release"/>
+      <Project Name="Starters43" ConfigName="Release"/>
+      <Project Name="JuneLunchTime" ConfigName="Release"/>
+      <Project Name="MISSP" ConfigName="Release"/>
+      <Project Name="ChefDiet" ConfigName="Release"/>
+      <Project Name="Starters44" ConfigName="Release"/>
+      <Project Name="JuneLongTwo" ConfigName="Release"/>
+      <Project Name="starters45" ConfigName="Release"/>
+      <Project Name="JuneCookoff" ConfigName="Release"/>
+      <Project Name="JulyCookOff" ConfigName="Release"/>
+      <Project Name="Starters46" ConfigName="Release"/>
+      <Project Name="Starters47" ConfigName="Release"/>
+      <Project Name="JulyLong2" ConfigName="Release"/>
+      <Project Name="Starters49" ConfigName="Release"/>
+      <Project Name="Starters50" ConfigName="Release"/>
+      <Project Name="AugustLong1" ConfigName="Release"/>
+      <Project Name="Starters52" ConfigName="Release"/>
+      <Project Name="LTIME111" ConfigName="Release"/>
+      <Project Name="Starters54" ConfigName="Release"/>
+      <Project Name="Starters55" ConfigName="Release"/>
+      <Project Name="CodeChefPractise" ConfigName="Release"/>
+      <Project Name="Starters60" ConfigName="Release"/>
+      <Project Name="Starters61" ConfigName="Release"/>
+      <Project Name="NovLong22" ConfigName="Release"/>
+      <Project Name="Starters65" ConfigName="Release"/>
+      <Project Name="DECLONG" ConfigName="Release"/>
+      <Project Name="Starters70" ConfigName="Release"/>
+      <Project Name="Advanced(1500-1600)" ConfigName="Release"/>
+      <Project Name="Starters72" ConfigName="Release"/>
+      <Project Name="Starters73" ConfigName="Release"/>
+      <Project Name="JanLong23" ConfigName="Release"/>
+      <Project Name="Starters74" ConfigName="Release"/>
+      <Project Name="Basic(1600-1700)" ConfigName="Release"/>
+      <Project Name="FebCookoff" ConfigName="Release"/>
+      <Project Name="Starters77" ConfigName="Release"/>
+      <Project Name="Starters79" ConfigName="Release"/>
+      <Project Name="Starters80" ConfigName="Release"/>
+      <Project Name="Starters81" ConfigName="Release"/>
+      <Project Name="Starters82" ConfigName="Release"/>
+      <Project Name="Starters83" ConfigName="Release"/>
+      <Project Name="Starters84" ConfigName="Release"/>
+      <Project Name="Starters85" ConfigName="Release"/>
+      <Project Name="Starters87" ConfigName="Release"/>
+      <Project Name="Starters88" ConfigName="Release"/>
+      <Project Name="Starters89" ConfigName="Release"/>
+      <Project Name="Starters91" ConfigName="Release"/>
+      <Project Name="Starters92" ConfigName="Release"/>
+      <Project Name="Starters93" ConfigName="Release"/>
+      <Project Name="Starters94" ConfigName="Release"/>
+      <Project Name="Starters95" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

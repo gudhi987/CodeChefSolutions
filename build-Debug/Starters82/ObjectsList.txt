@@ -1,0 +1,1 @@
+../build-Debug/Starters82/main.cpp.o   
