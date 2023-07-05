@@ -29,7 +29,7 @@
   <Project Name="LTIME111" Path="LTIME111/LTIME111.project" Active="No"/>
   <Project Name="Starters54" Path="Starters54/Starters54.project" Active="No"/>
   <Project Name="Starters55" Path="Starters55/Starters55.project" Active="No"/>
-  <Project Name="CodeChefPractise" Path="CodeChefPractise/CodeChefPractise.project" Active="No"/>
+  <Project Name="CodeChefPractise" Path="CodeChefPractise/CodeChefPractise.project" Active="Yes"/>
   <Project Name="Starters60" Path="Starters60/Starters60.project" Active="No"/>
   <Project Name="Starters61" Path="Starters61/Starters61.project" Active="No"/>
   <Project Name="NovLong22" Path="NovLong22/NovLong22.project" Active="No"/>
@@ -58,7 +58,7 @@
   <Project Name="Starters92" Path="Starters92/Starters92.project" Active="No"/>
   <Project Name="Starters93" Path="Starters93/Starters93.project" Active="No"/>
   <Project Name="Starters94" Path="Starters94/Starters94.project" Active="No"/>
-  <Project Name="Starters95" Path="Starters95/Starters95.project" Active="Yes"/>
+  <Project Name="Starters95" Path="Starters95/Starters95.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

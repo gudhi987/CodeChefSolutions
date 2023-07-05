@@ -188,6 +188,9 @@
 //    }
 //    return 0;
 //}
+
+//SWAPNUM31
+
 #include <iostream>
 #include <vector>
 #include <cstring>
@@ -210,7 +213,49 @@
 using namespace std;
 void solution()
 {
-    
+    int n,k;
+    cin >> n >> k;
+    vector<int>arr(n);
+    for(int i=0;i<n;i++)
+    {
+        cin >> arr[i];
+    }
+    vector<int>swappable;
+    vector<int>index(n,0);
+    for(int i=0;i<n;i++)
+    {
+        if(i-k>=0 || i+k<n)
+        {
+            index[i]=1;
+        }
+    }
+    for(int i=0;i<n;i++)
+    {
+        if(index[i])
+        {
+            swappable.push_back(arr[i]);
+        }
+    }
+//    for(int i=0;i<n;i++)
+//    {
+//        cout << index[i] << " ";
+//    }
+//    cout << endl;
+    sort(swappable.begin(),swappable.end());
+    int start=0;
+    for(int i=0;i<n;i++)
+    {
+        if(index[i])
+        {
+            arr[i]=swappable[start];
+            start++;
+        }
+    }
+    for(int i=0;i<n;i++)
+    {
+        cout << arr[i] << " ";
+    }
+    cout << endl;
 }
 int main()
 {
