@@ -59,7 +59,8 @@
   <Project Name="Starters93" Path="Starters93/Starters93.project" Active="No"/>
   <Project Name="Starters94" Path="Starters94/Starters94.project" Active="No"/>
   <Project Name="Starters95" Path="Starters95/Starters95.project" Active="No"/>
-  <Project Name="Starters97" Path="Starters97/Starters97.project" Active="Yes"/>
+  <Project Name="Starters97" Path="Starters97/Starters97.project" Active="No"/>
+  <Project Name="Starters99" Path="Starters99/Starters99.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -123,6 +124,7 @@
       <Project Name="Starters94" ConfigName="Debug"/>
       <Project Name="Starters95" ConfigName="Debug"/>
       <Project Name="Starters97" ConfigName="Debug"/>
+      <Project Name="Starters99" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -186,6 +188,7 @@
       <Project Name="Starters94" ConfigName="Release"/>
       <Project Name="Starters95" ConfigName="Release"/>
       <Project Name="Starters97" ConfigName="Release"/>
+      <Project Name="Starters99" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
