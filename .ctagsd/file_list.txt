@@ -12,6 +12,7 @@ C:\Users\JAGADEESH\Documents\CodeChef\JuneLongOne\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters81\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters93\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters77\main.cpp
+C:\Users\JAGADEESH\Documents\CodeChef\Starters100\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters99\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\FebCookoff\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters74\main.cpp
@@ -30,6 +31,7 @@ C:\Users\JAGADEESH\Documents\CodeChef\CodeChefPractise\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters79\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters55\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters54\main.cpp
+C:\Users\JAGADEESH\Documents\CodeChef\AugustLong2023\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters89\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\Starters52\main.cpp
 C:\Users\JAGADEESH\Documents\CodeChef\JulyLong2\main.cpp
